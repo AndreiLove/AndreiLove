@@ -1,4 +1,4 @@
-### Hi there, I'm Andrei Love [website] 👋
+### Hi there, I'm Andrei Love 👋 [website]
 
 [![Website](https://img.shields.io/static/v1?label=WEBSITE&message=here&color=<COLOR>)](https://github.com/AndreiLove/)
 [![Blog](https://img.shields.io/static/v1?label=BLOG&message=here&color=<COLOR>)](https://github.com/AndreiLove/)

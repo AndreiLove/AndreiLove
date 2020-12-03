@@ -37,7 +37,7 @@
 <img align="left" height="32" width="32" src="https://alpinesecurity.com/wp-content/uploads/2020/02/CEHMaastercertification.png" />
 <br />
 
-### Pentesting Tools And Software I Use:
+### Tools And Software I Use:
 
 [![Website](https://img.shields.io/static/v1?label=Xcode&message=↩&color=<COLOR>)]
 [![Website](https://img.shields.io/static/v1?label=Swift&message=↩&color=<COLOR>)]

@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/static/v1?label=WEBSITE&message=here&color=<COLOR>)](https://github.com/AndreiLove/)
 [![Blog](https://img.shields.io/static/v1?label=BLOG&message=here&color=<COLOR>)](https://github.com/AndreiLove/)
 
-### I'm an IOS & Android App Developer | App Designer | App marketer
+### I'm an Fullstack Web Developer | Web Designer | Programming SEO Specialist
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I was a professional dancer for 25 years!
 
 ### Connect with me:

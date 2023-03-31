@@ -35,7 +35,7 @@
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 <!--<img align="left" height="32" width="32" src="https://images.youracclaim.com/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" />-->
 <img align="left" height="32" width="32" src="https://alpinesecurity.com/wp-content/uploads/2020/02/CEHMaastercertification.png" />
-<img align="left" height="32" width="32" src="https://th.bing.com/th/id/OIP.gcEdib5QdIi3XqO9Qww-vwAAAA?pid=ImgDet&rs=1" />
+<img align="left" height="32" width="32" src="https://th.bing.com/th/id/OIP.JRxYHRKxqnP5X_w5PIOk9gHaGb?pid=ImgDet&rs=1" />
 <img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Font_Awesome_5_brands_npm.svg/640px-Font_Awesome_5_brands_npm.svg.png"/>
 <br />
 

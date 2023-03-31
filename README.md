@@ -33,12 +33,12 @@
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
-<img align="left" height="32" width="32" src="https://images.youracclaim.com/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" />
+<!--<img align="left" height="32" width="32" src="https://images.youracclaim.com/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" />-->
 <img align="left" height="32" width="32" src="https://alpinesecurity.com/wp-content/uploads/2020/02/CEHMaastercertification.png" />
 <br />
 
 ###
-[![Website](https://img.shields.io/static/v1?label=Xcode&message=↩&color=<COLOR>)]
+<!--[![Website](https://img.shields.io/static/v1?label=Xcode&message=↩&color=<COLOR>)]
 [![Website](https://img.shields.io/static/v1?label=Swift&message=↩&color=<COLOR>)]
 [![Website](https://img.shields.io/static/v1?label=Json&message=↩&color=<COLOR>)]
 [![Website](https://img.shields.io/static/v1?label=CoreML&message=↩&color=<COLOR>)]

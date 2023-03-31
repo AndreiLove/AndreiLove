@@ -37,6 +37,7 @@
 <img align="left" height="32" width="32" src="https://alpinesecurity.com/wp-content/uploads/2020/02/CEHMaastercertification.png" />
 <img align="left" height="32" width="32" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" />
 <img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"/>
+<img align="left" height="32" width="32" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png />
 <br />
 
 ###

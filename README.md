@@ -46,7 +46,7 @@
 [![Website](https://img.shields.io/static/v1?label=ARKit&message=↩&color=<COLOR>)]
 [![Website](https://img.shields.io/static/v1?label=Flutter&message=↩&color=<COLOR>)]
 [![Website](https://img.shields.io/static/v1?label=Dart&message=↩&color=<COLOR>)]
-[![Website](https://img.shields.io/static/v1?label=KaliLinux&message=↩&color=<COLOR>)]
+[![Website](https://img.shields.io/static/v1?label=KaliLinux&message=↩&color=<COLOR>)]-->
 
 <br />
 <br />

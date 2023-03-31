@@ -23,7 +23,6 @@
 
 ### Languages and Tools:
 
-<img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -39,6 +38,7 @@
 <img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"/>
 <img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Javascript_on_figma.png/640px-Javascript_on_figma.png" />
 <img align="left" height="32" width="32" src="https://www.opc-router.com/wp-content/uploads/2021/03/mongodb_thumbnail-200x269.png" />
+<img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
                                               
 <br />
 

@@ -36,6 +36,7 @@
 <!--<img align="left" height="32" width="32" src="https://images.youracclaim.com/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" />-->
 <img align="left" height="32" width="32" src="https://alpinesecurity.com/wp-content/uploads/2020/02/CEHMaastercertification.png" />
 <img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png" />
+<img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Font_Awesome_5_brands_npm.svg/640px-Font_Awesome_5_brands_npm.svg.png"/>
 <br />
 
 ###

@@ -36,7 +36,6 @@
 <img align="left" height="32" width="32" src="https://alpinesecurity.com/wp-content/uploads/2020/02/CEHMaastercertification.png" />
 <img align="left" height="32" width="32" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" />
 <img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"/>
-<img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Javascript_on_figma.png/640px-Javascript_on_figma.png" />
 <img align="left" height="32" width="32" src="https://www.opc-router.com/wp-content/uploads/2021/03/mongodb_thumbnail-200x269.png" />
 <img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
                                               

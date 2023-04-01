@@ -27,6 +27,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/AndreiLove"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/AndreiLove" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreilove&show_icons=true&locale=en&layout=compact" alt="andreilove" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreilove&show_icons=true&locale=en" alt="andreilove" /></p>
+
 ###
 <!--[![Website](https://img.shields.io/static/v1?label=Xcode&message=↩&color=<COLOR>)]
 [![Website](https://img.shields.io/static/v1?label=Swift&message=↩&color=<COLOR>)]

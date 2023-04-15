@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am a professional dancer as well for 35 years!
+- ⚡ Fun fact: I am a professional dancer as well!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

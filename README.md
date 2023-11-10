@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/static/v1?label=WEBSITE&message=here&color=<COLOR>)](https://github.com/AndreiLove/)
 [![Blog](https://img.shields.io/static/v1?label=BLOG&message=here&color=<COLOR>)](https://www.linkedin.com/in/andrei-gavrilov-7780421b5/recent-activity/shares/)
 
-### I'm a Flutter Mobile App Developer | UI/UX Designer | Programming SEO Specialist
+### I'm a Python Developer | UI/UX Designer |
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣

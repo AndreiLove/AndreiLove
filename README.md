@@ -6,10 +6,17 @@
 ### I'm | HTML Email Developer |
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am a professional dancer as well!
+👋 Hi there! I'm a passionate Email Developer with a knack for crafting beautiful, responsive emails that not only look great but also deliver results. With a solid background in HTML and CSS, I specialize in creating pixel-perfect, cross-browser compatible emails that adhere to industry best practices and ADA compliance.
+
+🚀 I thrive on challenges, whether it's optimizing email performance, ensuring compatibility across desktop and mobile platforms, or coaching fellow developers to level up their skills. I collaborate closely with design teams, tech leads, and PMs to ensure every email I build is pixel-perfect and visually stunning.
+
+🎨 My toolbox includes Adobe Creative Suite (Dreamweaver & Photoshop), MailChimp, Litmus, and I'm proficient in using GitHub for version control. I’m also well-versed in media queries, dark mode fixes, and image optimization to create emails that look perfect, no matter where they’re viewed.
+
+💡 Always on the lookout for the latest trends in email marketing and web development, I'm committed to staying ahead of the curve, learning new technologies, and solving problems with a proactive mindset.
+
+💼 When I'm not coding, you can find me exploring the nuances of JavaScript frameworks or delving into the latest email client quirks to ensure every campaign I work on is a success.
+
+Let's connect and create something amazing! 🌟
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
